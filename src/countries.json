@@ -1,0 +1,14 @@
+[
+	{
+		"name": "Country 1",
+		"capital": "Capital 1",
+		"population": 1000000,
+		"area": 10000
+	},
+	{
+		"name": "Country 2",
+		"capital": "Capital 2",
+		"population": 2000000,
+		"area": 20000
+	}
+]
